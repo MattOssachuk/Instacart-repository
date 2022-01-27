@@ -27,11 +27,12 @@ orders.
 5) The marketing and sales teams are particularly interested in the different types of
 customers in their system and how their ordering behaviors differ. For example:
 
-● What’s the distribution among users in regards to their brand loyalty (i.e., how
+a) What’s the distribution among users in regards to their brand loyalty (i.e., how
 often do they return to Instacart)?
-● Are there differences in ordering habits based on a customer’s loyalty status?
-● Are there differences in ordering habits based on a customer’s region?
-● Is there a connection between age and family status in terms of ordering habits?
+
+b) Are there differences in ordering habits based on a customer’s loyalty status?
+c) Are there differences in ordering habits based on a customer’s region?
+d) Is there a connection between age and family status in terms of ordering habits?
 
 6) What different classifications does the demographic information suggest? Age?
 Income? Certain types of goods? Family status?
