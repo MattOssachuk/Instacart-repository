@@ -1,5 +1,6 @@
 
-Instacart Python Project
+## Instacart Python Project
+----------------------------
 
 You’re an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
@@ -48,3 +49,25 @@ Income? Certain types of goods? Family status?
 7) What differences can you find in ordering habits of different customer profiles?
 Consider the price of orders, the frequency of orders, the products customers are
 ordering, and anything else you can think of.
+
+## Folder Contents
+-----------------------
+01 Project Management - Contains the project brief for the project
+
+02 Data - Contains the original data sets as well as the data sets that I have prepared through Python
+
+03 Scripts - Contains the scripts I have worked with through the course of the project
+
+04 Analysis - Contains the reports and visualizations I have made as a result of my analysis
+
+05 Sent to client - Contains the final report that I sent to the client 
+
+## Data Set information 
+------------------------
+orders.csv - Contains order_id, user_id and other relevant information about orders that have been placed with the Instacart app
+products.csv - Contains product_id, product_name, aisle_id, department and prices of items from Instacart
+orders_products__prior.csv - Contains information on re-ordered products from Instacart
+departments.csv - Contains department_id and department names of all departments from Instacart
+customers.csv - Contains information relating to all the customers at Instacart (First name, last name, age, income etc.)
+
+
