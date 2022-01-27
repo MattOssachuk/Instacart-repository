@@ -1,18 +1,18 @@
 
 ## Instacart Python Project
-----------------------------
 
-You’re an analyst for an existing company, Instacart, an online grocery store that operates
+
+This project required me to take on the role of an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
-information about their sales patterns. Your task is to perform an initial data and exploratory
+information about their sales patterns. My task was to perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better
-segmentation based on the provided criteria.
+segmentation and marketing. 
 
 The Instacart stakeholders are most interested in the variety of customers in their database
 along with their purchasing behaviors. They assume they can't target everyone using the same
 methods, and they’re considering a targeted marketing strategy. They want to target different
 customers with applicable marketing campaigns to see whether they have an effect on the sale
-of their products. Your analysis will inform what this strategy might look like to ensure Instacart
+of their products. My analysis focuses on showing what this strategy might look like to ensure Instacart
 targets the right customer profiles with the appropriate products. 
 
 The stakeholders would like to be able to answer the following key questions:
@@ -51,7 +51,7 @@ Consider the price of orders, the frequency of orders, the products customers ar
 ordering, and anything else you can think of.
 
 ## Folder Contents
------------------------
+
 01 Project Management - Contains the project brief for the project
 
 02 Data - Contains the original data sets as well as the data sets that I have prepared through Python
@@ -63,11 +63,11 @@ ordering, and anything else you can think of.
 05 Sent to client - Contains the final report that I sent to the client 
 
 ## Data Set information 
-------------------------
-orders.csv - Contains order_id, user_id and other relevant information about orders that have been placed with the Instacart app
-products.csv - Contains product_id, product_name, aisle_id, department and prices of items from Instacart
-orders_products__prior.csv - Contains information on re-ordered products from Instacart
-departments.csv - Contains department_id and department names of all departments from Instacart
-customers.csv - Contains information relating to all the customers at Instacart (First name, last name, age, income etc.)
+
+- orders.csv - Contains order_id, user_id and other relevant information about orders that have been placed with the Instacart app
+- products.csv - Contains product_id, product_name, aisle_id, department and prices of items from Instacart
+- orders_products__prior.csv - Contains information on re-ordered products from Instacart
+- departments.csv - Contains department_id and department names of all departments from Instacart
+- customers.csv - Contains information relating to all the customers at Instacart (First name, last name, age, income etc.)
 
 
