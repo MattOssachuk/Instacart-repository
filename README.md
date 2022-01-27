@@ -31,7 +31,9 @@ a) What’s the distribution among users in regards to their brand loyalty (i.e.
 often do they return to Instacart)?
 
 b) Are there differences in ordering habits based on a customer’s loyalty status?
+
 c) Are there differences in ordering habits based on a customer’s region?
+
 d) Is there a connection between age and family status in terms of ordering habits?
 
 6) What different classifications does the demographic information suggest? Age?
