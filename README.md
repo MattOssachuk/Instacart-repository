@@ -1,6 +1,7 @@
 
 # Instacart Python Project
 
+![Instacart](https://raw.githubusercontent.com/MattOssachuk/Instacart-repository/main/Picture1.png)
 
 This project required me to take on the role of an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
