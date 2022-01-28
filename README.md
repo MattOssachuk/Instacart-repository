@@ -67,8 +67,8 @@ ordering, and anything else you can think of.**
 ## Data Set information 
 
 - orders.csv - Contains order_id, user_id and other relevant information about orders that have been placed with the Instacart app
-- products.csv - Contains product_id, product_name, aisle_id, department and prices of items from Instacart
-- orders_products__prior.csv - Contains information on re-ordered products from Instacart
+- products.csv - Contains product_id, product_name, aisle_id, department and prices of items from Instacart **(file too large to include on Github)**
+- orders_products__prior.csv - Contains information on re-ordered products from Instacart **(file too large to include on Github)**
 - departments.csv - Contains department_id and department names of all departments from Instacart
 - customers.csv - Contains information relating to all the customers at Instacart (First name, last name, age, income etc.)
 
